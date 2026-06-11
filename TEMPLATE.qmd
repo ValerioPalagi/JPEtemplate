@@ -11,7 +11,7 @@ format:
 |  |   |
 | ---  |  -------|
 | ID  |  {{< var paper_id >}} |
-| Author  |  {{< var author >}} |
+| Author  |  Luca Marcianò |
 | Title  |  {{< var title >}} |
 | Iteration |  {{< var round >}} |
 
